@@ -27,7 +27,10 @@ I’m a **PHP Laravel Developer** with 5+ years of experience building scalable 
 
 ## 🚀 Projects
 - [**Highload Laravel App**](https://github.com/HarAlb/highload-laravel) A showcase of a high-load Laravel application using Docker, Queues, and Event-Driven Architecture.
-- [**Exchange Rates API**](https://github.com/HarAlb/exchange-rates-example)
+- [**Exchange Rates API**](https://github.com/HarAlb/exchange-rates-example) A Laravel service integrating with external APIs to fetch and cache exchange rates.
+- [**Laravel DDD Starter**](https://github.com/HarAlb/simple-ddd) An architectural template for Laravel using Domain-Driven Design principles.
+- [**Resource Booking System**](https://github.com/HarAlb/test-booking/tree/dev) A modular resource booking system for scheduling rooms, cars, or other assets.
+- [**Product Store Demo**](https://github.com/HarAlb/test-product-store) A demo of a simple product store with categories, cart management, and product listing.
 
 ---
 
@@ -40,8 +43,8 @@ I’m a **PHP Laravel Developer** with 5+ years of experience building scalable 
 
 ## 📬 Let’s Connect
 
-- 🌐 [LinkedIn]([https://linkedin.com/in/albert-harutyunyan](https://www.linkedin.com/in/engineer-albert-harutyunyan/))
-- 💬 [Telegram]([https://t.me/simplethinker](https://t.me/ab_dev_engineer))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/engineer-albert-harutyunyan/)
+- 💬 [Telegram](https://t.me/ab_dev_engineer)
 - 💼 [GitHub](https://github.com/HarAlb)
 
 ---
