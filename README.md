@@ -29,7 +29,6 @@ I’m a **PHP Laravel Developer** with 5+ years of experience building scalable 
 - [**Highload Laravel App**](https://github.com/HarAlb/highload-laravel) A showcase of a high-load Laravel application using Docker, Queues, and Event-Driven Architecture.
 - [**Adlibis Test Example**](https://github.com/HarAlb/adlibis-test) An example project demonstrating business logic and integrations in Laravel.
 - [**Exchange Rates API**](https://github.com/HarAlb/exchange-rates-example) A Laravel service integrating with external APIs to fetch and cache exchange rates.
-- [**Laravel DDD Starter**](https://github.com/HarAlb/simple-ddd) An architectural template for Laravel using Domain-Driven Design principles.
 - [**Resource Booking System**](https://github.com/HarAlb/test-booking/tree/dev) A modular resource booking system for scheduling rooms, cars, or other assets.
 - [**Product Store Demo**](https://github.com/HarAlb/test-product-store) A demo of a simple product store with categories, cart management, and product listing.
 
