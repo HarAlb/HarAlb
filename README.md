@@ -27,6 +27,7 @@ I’m a **PHP Laravel Developer** with 5+ years of experience building scalable 
 
 ## 🚀 Projects
 - [**Highload Laravel App**](https://github.com/HarAlb/highload-laravel) A showcase of a high-load Laravel application using Docker, Queues, and Event-Driven Architecture.
+- [**Outbox Pattern Implementation**](https://github.com/HarAlb/outbox-pattern) Reliable event processing with outbox worker, retry mechanism, and monitoring.
 - [**Adlibis Test Example**](https://github.com/HarAlb/adlibis-test) An example project demonstrating business logic and integrations in Laravel.
 - [**Exchange Rates API**](https://github.com/HarAlb/exchange-rates-example) A Laravel service integrating with external APIs to fetch and cache exchange rates.
 - [**Resource Booking System**](https://github.com/HarAlb/test-booking/tree/dev) A modular resource booking system for scheduling rooms, cars, or other assets.
