@@ -26,6 +26,7 @@ I’m a **PHP Laravel Developer** with 5+ years of experience building scalable 
 ---
 
 ## 🚀 Projects
+- [**Notifier app**](https://github.com/HarAlb/notifier-app) Event-driven notification service built with Laravel, RabbitMQ, Redis, and Docker. Demonstrates asynchronous processing, queue-based architecture, and scalable notification delivery.
 - [**Highload Laravel App**](https://github.com/HarAlb/highload-laravel) A showcase of a high-load Laravel application using Docker, Queues, and Event-Driven Architecture.
 - [**Outbox Pattern Implementation**](https://github.com/HarAlb/outbox-pattern) Reliable event processing with outbox worker, retry mechanism, and monitoring.
 - [**Adlibis Test Example**](https://github.com/HarAlb/adlibis-test) An example project demonstrating business logic and integrations in Laravel.
